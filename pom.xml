@@ -8,7 +8,7 @@
     <name>gulimall</name>
     <description>聚合工程</description>
     <packaging>pom</packaging>
-
+    <!--聚合小服务-->
     <modules>
         <module>gulimall-coupon</module>
         <module>gulimall-member</module>
